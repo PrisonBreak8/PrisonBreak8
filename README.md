@@ -46,18 +46,17 @@
 
 <hr>
 
+#### ***Using a new framework without reading documentations be like :*** 
+![Footer](https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/man.gif)
+
+<hr>
+
 <details>
  <summary>:zap: Statistics</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326" />
 
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrisonBreak8&langs_count=8&layout=compact&bg_color=222326" />
 </details>
-
-
-<hr>
-
-#### ***Using a new framework without reading documentations be like :*** 
-![Footer](https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/man.gif)
 
 
 
