@@ -3,6 +3,7 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 </h1>
 
+<!--<img src="https://img.freepik.com/free-photo/flag-of-ukraine-with-coat-of-arms_1401-250.jpg?size=626&ext=jpg&ga=GA1.1.1751933419.1666718554" width="15">-->
 
 ## Welcome to my page!
 ## I'm Artur. Beginner Frontend Developer.
@@ -49,7 +50,16 @@
 
 <hr>
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrisonBreak8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326))](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 
