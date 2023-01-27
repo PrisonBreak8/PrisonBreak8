@@ -19,3 +19,14 @@ About me:
 
 #### ***Using a new framework without reading documentations be like :*** 
 ![Footer](https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/man.gif)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=000000))](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
