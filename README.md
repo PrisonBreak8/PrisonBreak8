@@ -47,11 +47,12 @@
 <hr>
 
 <details>
-  <summary>:zap: Statistics</summary>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326))](https://github.com/anuraghazra/github-readme-stats)
+ <summary>:zap: Statistics</summary>
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326" />
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrisonBreak8&layout=compact&bg_color=222326)](https://github.com/anuraghazra/github-readme-stats)
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrisonBreak8&langs_count=8&layout=compact&bg_color=222326" />
 </details>
+
 
 <hr>
 
