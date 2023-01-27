@@ -53,7 +53,7 @@
 
 <details>
  <summary>:zap: Statistics</summary>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326" />
+  <!--<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326" />-->
 
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrisonBreak8&langs_count=8&layout=compact&bg_color=222326" />
 </details>
