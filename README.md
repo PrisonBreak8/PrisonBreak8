@@ -7,6 +7,7 @@
 
 ## Welcome to my page!
 ## I'm Artur. Beginner Frontend Developer.
+![](https://komarev.com/ghpvc/?username=PrisonBreak8&color=ff5753&style=plastic&label=VIEWS)
 
 <hr>
 
@@ -45,14 +46,25 @@
 
 <hr>
 
-#### ***Using a new framework without reading documentations be like :*** 
-![Footer](https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/man.gif)
+<details>
+  <summary>:zap: Statistics</summary>
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326))](https://github.com/anuraghazra/github-readme-stats)
+
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrisonBreak8&layout=compact&bg_color=222326)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
 <hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrisonBreak8&show_icons=true&theme=transparent&bg_color=222326))](https://github.com/anuraghazra/github-readme-stats)
+#### ***Using a new framework without reading documentations be like :*** 
+![Footer](https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/man.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrisonBreak8&layout=compact&bg_color=222326)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
 
 
 
