@@ -17,6 +17,7 @@ About me:
 ![CSSMODULES](https://img.shields.io/badge/-CSSMODULES-cccccc?style=for-the-badge&logo=CSSMODULES&logoColor=000000)
 ![GULP](https://img.shields.io/badge/-GULP-E44849?style=for-the-badge&logo=GULP&logoColor=ffffff)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-1B74BA?style=for-the-badge&logo=WEBPACK&logoColor=ffffff)
+
 ![FIGMA](https://img.shields.io/badge/-FIGMA-2E2E2E?style=for-the-badge&logo=FIGMA&logoColor=ffffff)
 ![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-25A1F6?style=for-the-badge&logo=PHOTOSHOP&logoColor=ffffff)
 
