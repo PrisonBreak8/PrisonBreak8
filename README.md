@@ -12,11 +12,11 @@ About me:
 ![CSS](https://img.shields.io/badge/-CSS3-faff11?style=for-the-badge&logo=CSS3&color=blue&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=ffffff)
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=ffffff)
-![CSSMODULES](https://img.shields.io/badge/-CSSMODULES-cccccc?style=for-the-badge&logo=CSSMODULES&logoColor=000000)
+![GIT](https://img.shields.io/badge/-GIT-E84D31?style=for-the-badge&logo=GIT&logoColor=ffffff)
 
+![CSSMODULES](https://img.shields.io/badge/-CSSMODULES-cccccc?style=for-the-badge&logo=CSSMODULES&logoColor=000000)
 ![GULP](https://img.shields.io/badge/-GULP-E44849?style=for-the-badge&logo=GULP&logoColor=ffffff)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-1B74BA?style=for-the-badge&logo=WEBPACK&logoColor=ffffff)
-![GIT](https://img.shields.io/badge/-GIT-E84D31?style=for-the-badge&logo=GIT&logoColor=ffffff)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-2E2E2E?style=for-the-badge&logo=FIGMA&logoColor=ffffff)
 ![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-25A1F6?style=for-the-badge&logo=PHOTOSHOP&logoColor=ffffff)
 
