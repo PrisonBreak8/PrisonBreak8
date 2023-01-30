@@ -51,8 +51,11 @@
 
 <details>
  <summary>Images: => )</summary>
- <p>Debagging be like</p>
-<img src="https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/debugging-be-like.gif"/> 
+ <p>Debagging be like:</p>
+ <img src="https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/debugging-be-like.gif"/> 
+
+ <p>Learn c++:</p>
+  <img src="https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/c++.jpg"/> 
 </details>
 
 <hr>
