@@ -51,10 +51,10 @@
 
 <details>
  <summary>Images: => )</summary>
- <p>Debagging be like:</p>
+ <p style="font-size: 18px; margin-top: 15px">Debagging be like:</p>
  <img src="https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/debugging-be-like.gif"/> 
 
- <p>Learn c++:</p>
+ <p style="font-size: 18px; margin-top: 15px">Learn c++:</p>
   <img src="https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/c++.jpg"/> 
 </details>
 
