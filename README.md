@@ -44,7 +44,7 @@
 ### Codepen:
 [![CODEPEN](https://img.shields.io/badge/-CODEPEN-blue?style=for-the-badge&logo=CODEPEN&logoColor=ffffff)](https://codepen.io/your-work/)
 
-<hr>
+<!--<hr>
 
 #### ***Using a new framework without reading documentations be like :*** 
 ![Footer](https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/man.gif)
@@ -56,7 +56,7 @@
 
   <p style="font-size: 18px; margin-top: 15px ">Learn c++:</p>
   <img src="https://github.com/PrisonBreak8/PrisonBreak8/blob/main/assets/c++.jpg"/> 
-</details>
+</details>-->
 
 <hr>
 
