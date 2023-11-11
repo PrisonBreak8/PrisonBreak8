@@ -35,7 +35,7 @@
 <hr>
 
 ### My social networks:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/artur-holubev-882491231/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://https://www.linkedin.com/in/artur-golubev/)
 [![Github](https://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=ffffff)](https://github.com/PrisonBreak8)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=ffffff)](https://www.facebook.com/profile.php?id=100044944034350)
 
