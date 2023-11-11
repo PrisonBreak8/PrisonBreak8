@@ -6,7 +6,7 @@
 <!--<img src="https://img.freepik.com/free-photo/flag-of-ukraine-with-coat-of-arms_1401-250.jpg?size=626&ext=jpg&ga=GA1.1.1751933419.1666718554" width="15">-->
 
 ## Welcome to my page!
-## I'm Artur. Beginner Frontend Developer.
+## I'm Artur. Frontend Developer.
 ![](https://komarev.com/ghpvc/?username=PrisonBreak8&color=ff5753&style=plastic&label=VIEWS)
 
 <hr>
