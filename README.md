@@ -8,6 +8,7 @@
 ## Welcome to my page!
 ## I'm Artur. Frontend Developer.
 ![](https://komarev.com/ghpvc/?username=PrisonBreak8&color=ff5753&style=plastic&label=VIEWS)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 <hr>
 
